@@ -1,0 +1,24 @@
+ul li{
+  color: #60a3bc;
+  list-style-type: none;
+}
+.search{
+  width: 20em;
+  height: 2.25em;
+  border: #60a3bc solid 2px;
+  border-radius: 10px;
+  color: #60a3bc;
+}
+
+.searchButton{
+  width: 5em;
+  height: 2.5em;
+  background-color: #60a3bc ;
+  color: whitesmoke;
+  border-radius: 10px;
+}
+
+::placeholder{
+color: #60a3bc;
+text-align: center;
+}
